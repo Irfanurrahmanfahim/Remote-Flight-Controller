@@ -1,0 +1,65 @@
+E:\Event Driven\Remote Flight Controller\obj\Debug\Remote Flight Controller.csproj.AssemblyReference.cache
+E:\Event Driven\Remote Flight Controller\obj\Debug\Remote_Flight_Controller.RemoteFlightController.resources
+E:\Event Driven\Remote Flight Controller\obj\Debug\Remote_Flight_Controller.Properties.Resources.resources
+E:\Event Driven\Remote Flight Controller\obj\Debug\Remote Flight Controller.csproj.GenerateResource.cache
+E:\Event Driven\Remote Flight Controller\obj\Debug\Remote Flight Controller.csproj.CoreCompileInputs.cache
+E:\Event Driven\Remote Flight Controller\bin\Debug\Remote Flight Controller.exe.config
+E:\Event Driven\Remote Flight Controller\bin\Debug\Remote Flight Controller.exe
+E:\Event Driven\Remote Flight Controller\bin\Debug\Remote Flight Controller.pdb
+E:\Event Driven\Remote Flight Controller\obj\Debug\Remote Flight Controller.exe
+E:\Event Driven\Remote Flight Controller\obj\Debug\Remote Flight Controller.pdb
+E:\Event Driven\Remote Flight Controller\bin\Debug\LiveCharts.dll
+E:\Event Driven\Remote Flight Controller\bin\Debug\LiveCharts.WinForms.dll
+E:\Event Driven\Remote Flight Controller\bin\Debug\LiveCharts.Wpf.dll
+E:\Event Driven\Remote Flight Controller\bin\Debug\LiveCharts.pdb
+E:\Event Driven\Remote Flight Controller\bin\Debug\LiveCharts.xml
+E:\Event Driven\Remote Flight Controller\bin\Debug\LiveCharts.WinForms.pdb
+E:\Event Driven\Remote Flight Controller\bin\Debug\LiveCharts.WinForms.xml
+E:\Event Driven\Remote Flight Controller\bin\Debug\LiveCharts.Wpf.pdb
+E:\Event Driven\Remote Flight Controller\bin\Debug\LiveCharts.Wpf.xml
+E:\Event Driven\Remote Flight Controller\obj\Debug\Remote Flight Controller.csproj.CopyComplete
+E:\Event Driven\Remote Flight Controller\obj\Debug\Remote_Flight_Controller.autopilotform.resources
+E:\Event Driven\Remote Flight Controller v5\bin\Debug\Remote Flight Controller.exe.config
+E:\Event Driven\Remote Flight Controller v5\bin\Debug\Remote Flight Controller.exe
+E:\Event Driven\Remote Flight Controller v5\bin\Debug\Remote Flight Controller.pdb
+E:\Event Driven\Remote Flight Controller v5\bin\Debug\LiveCharts.dll
+E:\Event Driven\Remote Flight Controller v5\bin\Debug\LiveCharts.WinForms.dll
+E:\Event Driven\Remote Flight Controller v5\bin\Debug\LiveCharts.Wpf.dll
+E:\Event Driven\Remote Flight Controller v5\bin\Debug\LiveCharts.pdb
+E:\Event Driven\Remote Flight Controller v5\bin\Debug\LiveCharts.xml
+E:\Event Driven\Remote Flight Controller v5\bin\Debug\LiveCharts.WinForms.pdb
+E:\Event Driven\Remote Flight Controller v5\bin\Debug\LiveCharts.WinForms.xml
+E:\Event Driven\Remote Flight Controller v5\bin\Debug\LiveCharts.Wpf.pdb
+E:\Event Driven\Remote Flight Controller v5\bin\Debug\LiveCharts.Wpf.xml
+E:\Event Driven\Remote Flight Controller v5\obj\Debug\Remote Flight Controller.csproj.AssemblyReference.cache
+E:\Event Driven\Remote Flight Controller v5\obj\Debug\Remote_Flight_Controller.RemoteFlightController.resources
+E:\Event Driven\Remote Flight Controller v5\obj\Debug\Remote_Flight_Controller.autopilotform.resources
+E:\Event Driven\Remote Flight Controller v5\obj\Debug\Remote_Flight_Controller.Properties.Resources.resources
+E:\Event Driven\Remote Flight Controller v5\obj\Debug\Remote Flight Controller.csproj.GenerateResource.cache
+E:\Event Driven\Remote Flight Controller v5\obj\Debug\Remote Flight Controller.csproj.CoreCompileInputs.cache
+E:\Event Driven\Remote Flight Controller v5\obj\Debug\Remote Flight Controller.csproj.CopyComplete
+E:\Event Driven\Remote Flight Controller v5\obj\Debug\Remote Flight Controller.exe
+E:\Event Driven\Remote Flight Controller v5\obj\Debug\Remote Flight Controller.pdb
+E:\Event Driven\Remote Flight Controller\obj\Debug\Remote_Flight_Controller.startingform.resources
+E:\Event Driven\Remote Flight Controller Pre-Final\bin\Debug\Remote Flight Controller.exe.config
+E:\Event Driven\Remote Flight Controller Pre-Final\bin\Debug\Remote Flight Controller.exe
+E:\Event Driven\Remote Flight Controller Pre-Final\bin\Debug\Remote Flight Controller.pdb
+E:\Event Driven\Remote Flight Controller Pre-Final\bin\Debug\LiveCharts.dll
+E:\Event Driven\Remote Flight Controller Pre-Final\bin\Debug\LiveCharts.WinForms.dll
+E:\Event Driven\Remote Flight Controller Pre-Final\bin\Debug\LiveCharts.Wpf.dll
+E:\Event Driven\Remote Flight Controller Pre-Final\bin\Debug\LiveCharts.pdb
+E:\Event Driven\Remote Flight Controller Pre-Final\bin\Debug\LiveCharts.xml
+E:\Event Driven\Remote Flight Controller Pre-Final\bin\Debug\LiveCharts.WinForms.pdb
+E:\Event Driven\Remote Flight Controller Pre-Final\bin\Debug\LiveCharts.WinForms.xml
+E:\Event Driven\Remote Flight Controller Pre-Final\bin\Debug\LiveCharts.Wpf.pdb
+E:\Event Driven\Remote Flight Controller Pre-Final\bin\Debug\LiveCharts.Wpf.xml
+E:\Event Driven\Remote Flight Controller Pre-Final\obj\Debug\Remote Flight Controller.csproj.AssemblyReference.cache
+E:\Event Driven\Remote Flight Controller Pre-Final\obj\Debug\Remote_Flight_Controller.RemoteFlightController.resources
+E:\Event Driven\Remote Flight Controller Pre-Final\obj\Debug\Remote_Flight_Controller.autopilotform.resources
+E:\Event Driven\Remote Flight Controller Pre-Final\obj\Debug\Remote_Flight_Controller.startingform.resources
+E:\Event Driven\Remote Flight Controller Pre-Final\obj\Debug\Remote_Flight_Controller.Properties.Resources.resources
+E:\Event Driven\Remote Flight Controller Pre-Final\obj\Debug\Remote Flight Controller.csproj.GenerateResource.cache
+E:\Event Driven\Remote Flight Controller Pre-Final\obj\Debug\Remote Flight Controller.csproj.CoreCompileInputs.cache
+E:\Event Driven\Remote Flight Controller Pre-Final\obj\Debug\Remote Flight Controller.csproj.CopyComplete
+E:\Event Driven\Remote Flight Controller Pre-Final\obj\Debug\Remote Flight Controller.exe
+E:\Event Driven\Remote Flight Controller Pre-Final\obj\Debug\Remote Flight Controller.pdb
